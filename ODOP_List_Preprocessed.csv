@@ -1,0 +1,708 @@
+﻿Sl. No.,State,District,ODOP
+1,HRA PRADESH,Ananthapur,Groundnut 
+2,HRA PRADESH,Chittoor,Tomato  
+3,HRA PRADESH,East Godavari,Coconut 
+4,HRA PRADESH,Guntur, Chilli Turmeric
+5,HRA PRADESH,Kadapa,Banana  
+6,HRA PRADESH,Krishna,Mango  
+7,HRA PRADESH,Kurnool,Onion  
+8,HRA PRADESH,Nellore,Citrus  
+9,HRA PRADESH,Prakasam, Chilli Turmeric
+10,HRA PRADESH,Srikakulam,Cashewnut  
+11,HRA PRADESH,Vishakhapatnam,Sugarcane 
+12,HRA PRADESH,Vizianagaram,Mango  
+13,HRA PRADESH,West Godavari,Fish  Marine  
+14,AMAN  NICOBAR ISL,South aman,Marine  Fish 
+15,AMAN  NICOBAR ISL,Nicobar,Coconut  
+16,AMAN  NICOBAR ISL,Middle  North aman,Coconut  
+17,ARUNACHAL PRADESH,Changlang,Arecanut
+18,ARUNACHAL PRADESH,East Kameng,Orange  
+19,ARUNACHAL PRADESH,Kamle,Orange  
+20,ARUNACHAL PRADESH,Kra Dadi,Large Cardamom
+21,ARUNACHAL PRADESH,Kurung Kumey,Large Cardamom
+22,ARUNACHAL PRADESH,Leparada,Pickle
+23,ARUNACHAL PRADESH,Lohit,Sesamum  
+24,ARUNACHAL PRADESH,Longding,Ginger  
+25,ARUNACHAL PRADESH,Lower Dibang Valley,Ginger  
+26,ARUNACHAL PRADESH,Lower Subansiri,Kiwi  
+27,ARUNACHAL PRADESH,Namsai,Turmeric
+28,ARUNACHAL PRADESH,Papum PareYupia,Turmeric
+29,ARUNACHAL PRADESH,Siang,Large Cardamom
+30,ARUNACHAL PRADESH,Tawang,Walnut
+31,ARUNACHAL PRADESH,Tirap,Millet  
+32,ARUNACHAL PRADESH,Upper Siang,Orange  
+33,ARUNACHAL PRADESH,Upper Subansiri,Orange  
+34,ARUNACHAL PRADESH,East Siang,Jaggery
+35,ARUNACHAL PRADESH,West Siang,Pineapple  
+36,ARUNACHAL PRADESH,West Kameng,Apple  
+37,ARUNACHAL PRADESH,Anjaw,Large Cardamom
+38,ARUNACHAL PRADESH,Shi Yomi,Kiwi  
+39,ARUNACHAL PRADESH,Papum Pare Capital Complex,Turmeric
+40,ARUNACHAL PRADESH,Dibang Valley,Kiwi  
+41,ARUNACHAL PRADESH,Pakke Kassang,Ginger  
+42,ARUNACHAL PRADESH,Lower Siang,Turmeric
+43,ASSAM,Baksa,Honey
+44,ASSAM,Barpeta,Milk  
+45,ASSAM,Biswanath Charali,Potato  
+46,ASSAM,Bongaigaon,Turmeric
+47,ASSAM,Cachar,Pineapple  
+48,ASSAM,Charaideo,Rice soft rice  
+49,ASSAM,Chirang,Lemon  
+50,ASSAM,Darrang,Mustard 
+51,ASSAM,Dhemaji,Mustard 
+52,ASSAM,Dhubri,Chilli  
+53,ASSAM,Dibrugarh,Mustard 
+54,ASSAM,Dima Hasao,Ginger  
+55,ASSAM,Goalpara,Banana  
+56,ASSAM,Golaghat,Black Rice  
+57,ASSAM,Hailaki,Arecanut
+58,ASSAM,Hojai,Sugarcane   Jaggery 
+59,ASSAM,Jorhat,Chilli  
+60,ASSAM,Kamrup R,Banana  
+61,ASSAM,Kamrup M,Pickles
+62,ASSAM,KarbiAnglong,Ginger  
+63,ASSAM,Karimganj,Arecanut Betelnut
+64,ASSAM,Kokrajhar,Mushroom
+65,ASSAM,Lakhimpur,Piggery smoked meat
+66,ASSAM,Majuli,Mustard  
+67,ASSAM,Morigaon,Groundnut 
+68,ASSAM,Nagaon,Pickles
+69,ASSAM,Nalbari,Rice Soft  Sticky rice  
+70,ASSAM,Sivasagar,Rice Red rice  
+71,ASSAM,Sonitpur,Jackfruit  
+72,ASSAM,South Salmara,Cashewnut  
+73,ASSAM,Tinsukia,Citrus 
+74,ASSAM,Udalguri,Potato  
+75,ASSAM,West KarbiAnglong,Ginger  
+76,CHIGARH,Chigarh,Bakery 
+77,BIHAR,Araria,Makhana Foxnut
+78,BIHAR,Arwal,Pulse   Besan  Sattu
+79,BIHAR,Aurangabad,Strawberry  
+80,BIHAR,Banka,Katarni Rice  
+81,BIHAR,Begusarai,Chilly  
+82,BIHAR,Bhagalpur,Jardalu Mango
+83,BIHAR,Bhojpur,Indian   traditional   Sweets      Confectionary Khurma Belgrami
+84,BIHAR,Buxar,Indian traditional Sweets Batisa Papdi
+85,BIHAR,Darbhanga,Makhana Foxnut
+86,BIHAR,East Champaran,Litchi  
+87,BIHAR,Gaya,Sesame  
+88,BIHAR,Gopalganj,Papaya  
+89,BIHAR,Jamui, Jackfruit 
+90,BIHAR,Jehanabad,Pulse   Besan  Sattu
+91,BIHAR,Kaimur,Rice   Poha Murmura 
+92,BIHAR,Katihar,Makhana Foxnut
+93,BIHAR,Khagaria,Banana  
+94,BIHAR,Kishanganj,Pineapple  
+95,BIHAR,Lakhisarai,Tomato  
+96,BIHAR,Madhepura,Mango  
+97,BIHAR,Madhubani,Makhana Foxnut
+98,BIHAR,Munger,Rice   Poha Murmura 
+99,BIHAR,Muzaffarpur,Litchi  
+100,BIHAR,Nala,Potato  
+101,BIHAR,Nawada,Betel Vine
+102,BIHAR,Patna,Bakery 
+103,BIHAR,Purnia,Maize  
+104,BIHAR,Rohtas,Rice   Poha Murmura 
+105,BIHAR,Saharsa,Makhana Foxnut
+106,BIHAR,Samastipur,Turmeric
+107,BIHAR,Saran,Tomato  
+108,BIHAR,Sheikhpura,Onion  
+109,BIHAR,Sheohar,Banana  
+110,BIHAR,Sitamarhi,Litchi  
+111,BIHAR,Siwan,Mentha  
+112,BIHAR,Supaul,Makhana Foxnut
+113,BIHAR,Vaishali,Honey
+114,BIHAR,West Champaran,Sugarcane  
+115,CHHATTISGARH,Balod,Ginger  
+116,CHHATTISGARH,Baloda Bazar Bhatapara,Rice  
+117,CHHATTISGARH,Balrampur,Rice  
+118,CHHATTISGARH,Bemetara,Papaya  
+119,CHHATTISGARH,Bijapur, Mahua 
+120,CHHATTISGARH,Bilaspur,Black rice  
+121,CHHATTISGARH,Dantewada South Bastar,Mango  
+122,CHHATTISGARH,Dhamtari,Rice  
+123,CHHATTISGARH,Durg,Tomato  
+124,CHHATTISGARH,Gariyab, Chiraunjee 
+125,CHHATTISGARH,GurelaPendraMarwahi,Custard Apple  
+126,CHHATTISGARH,Jagdalpur Bastar, Tamarind
+127,CHHATTISGARH,JanjgirChampa,Rice  
+128,CHHATTISGARH,Jashpur,Rice  
+129,CHHATTISGARH,Kabirdham Kawardha,Sugarcane  
+130,CHHATTISGARH,Kanker North Bastar,
+131,CHHATTISGARH,Kondagaon,
+132,CHHATTISGARH,Korba, Mahua 
+133,CHHATTISGARH,Korea Koriya,Tomato  
+134,CHHATTISGARH,Mahasamund,Milk  
+135,CHHATTISGARH,Mungeli,Tomato  
+136,CHHATTISGARH,Narayanpur, Harra 
+137,CHHATTISGARH,Raigarh,Tomato  
+138,CHHATTISGARH,Raipur,Bakery 
+139,CHHATTISGARH,Rajngaon,Rice  
+140,CHHATTISGARH,Sukma,
+141,CHHATTISGARH,Surajpur,Turmeric  
+142,CHHATTISGARH,Surguja, Mahua Jackfruit 
+143, DADAR  NAGAR HAVELI  DAMAN  DIU,Dadar  Nagar Haveli,Mushroom  
+144, DADAR  NAGAR HAVELI  DAMAN  DIU,Daman,Fish  
+145, DADAR  NAGAR HAVELI  DAMAN  DIU,Diu,Fish  
+146,DELHI,Central Delhi,Bakery 
+147,DELHI,New Delhi,Bakery 
+148,DELHI,South Delhi,Bakery 
+149,DELHI,South East Delhi,Bakery 
+150,DELHI,South West Delhi,Milk  
+151,DELHI,West Delhi,Bakery 
+152,DELHI,East Delhi,Ready to Eat  Namkeens
+153,DELHI,North Delhi,Ready to Eat  Namkeens
+154,DELHI,North East Delhi,Ready to Eat Namkeens
+155,DELHI,North West Delhi,Milk  
+156,DELHI,Shahdara,Ready to Eat  Namkeens
+157, GUJARAT,Ahmedabad,Wheat  
+158, GUJARAT,Amreli,Groundnut  
+159, GUJARAT,An,Banana  
+160, GUJARAT,Aravalli,Potato  
+161, GUJARAT,Banaskantha,Pomegranate  
+162, GUJARAT,Bharuch,Banana  
+163, GUJARAT,Bhavnagar,Onion  
+164, GUJARAT,Botad,Guava  
+165, GUJARAT,Chhota Udaipur,Maize  
+166, GUJARAT,Dahod,Soyabean  
+167, GUJARAT,Dang,Finger Millet Ragi  
+168, GUJARAT,Devbhoomi Dwarka,Groundnut  
+169, GUJARAT,Ghinagar,Okra  
+170, GUJARAT,Gir Somnath,Mango  
+171, GUJARAT,Jamnagar,Groundnut  
+172, GUJARAT,Junagadh,Corier  
+173, GUJARAT,Kheda,Rice  
+174, GUJARAT,Kutch,Datepalm  
+175, GUJARAT,Mahisagar,Papaya  
+176, GUJARAT,Mehsana,Cumin  
+177, GUJARAT,Morbi,Sesamum  
+178, GUJARAT,Narmada,Banana  
+179, GUJARAT,Navsari,Mango  
+180, GUJARAT,Panchmahal,Maize  
+181, GUJARAT,Patan,Cumin  
+182, GUJARAT,Porbar,Gram  
+183, GUJARAT,Rajkot,Groundnut  
+184, GUJARAT,Sabarkantha,Vegetable  
+185, GUJARAT,Surat,Banana  
+186, GUJARAT,Surendranagar,Cumin  
+187, GUJARAT,Tapi,Sorghum  
+188, GUJARAT,Vadodara,Tur  
+189, GUJARAT,Valsad,Sapota  
+190,HARYANA,Ambala,Milk  
+191,HARYANA,Bhiwani,Citrus Fruits  
+192,HARYANA,Fatehbad,Citrus Fruits
+193,HARYANA,Gurugram,Amla  
+194,HARYANA,Hisar,Milk  
+195,HARYANA,Jhajjar,Milk  
+196,HARYANA,Jind,Poultry Meat  
+197,HARYANA,Kaithal,Milk  
+198,HARYANA,Karnal,Milk  
+199,HARYANA,Kurukshetra,Bakery 
+200,HARYANA,MewatNuh,Tomato  
+201,HARYANA,Narnaul Mahendragarh, chilies 
+202,HARYANA,Palwal,Milk  
+203,HARYANA,Panchkula,Ginger  
+204,HARYANA,Panipat,Carrot  
+205,HARYANA,Rewari,Mustard  
+206,HARYANA,Rohtak,Bakery 
+207,HARYANA,Sirsa,Milk  
+208,HARYANA,Sonipat,Mushroom  
+209,HARYANA,Yamuna Nagar,Bakery 
+210,HIMACHAL PRADESH,Bilaspur,Turmeric
+211,HIMACHAL PRADESH,Chamba,Apple  
+212,HIMACHAL PRADESH,Hamirpur,Milk  
+213,HIMACHAL PRADESH,Kangra,Mango  
+214,HIMACHAL PRADESH,Kinnaur,Fruit Wine
+215,HIMACHAL PRADESH,Kullu,Apple  
+216,HIMACHAL PRADESH,Lahaul  Spiti,Sea buckthorn  
+217,HIMACHAL PRADESH,Mi,Peas  vegetables
+218,HIMACHAL PRADESH,Shimla,Apple  
+219,HIMACHAL PRADESH,Sirmaur,Ginger  Garlic
+220,HIMACHAL PRADESH,Solan,Mushroom
+221,HIMACHAL PRADESH,Una,Potato  
+222,JAMMU  KASHMIR,Anantnag,Fish  
+223,JAMMU  KASHMIR,Bipora,Poultry mutton 
+224,JAMMU  KASHMIR,Baramulla,Apple  
+225,JAMMU  KASHMIR,Budgam,Milk  
+226,JAMMU  KASHMIR,Doda,Olive 
+227,JAMMU  KASHMIR,Gerbal,Fish  
+228,JAMMU  KASHMIR,Jammu,Milk  
+229,JAMMU  KASHMIR,Kathua,
+230,JAMMU  KASHMIR,Kishtwar,Walnut 
+231,JAMMU  KASHMIR,Kupwara,Walnut 
+232,JAMMU  KASHMIR,Kulgam,  Pickle
+233,JAMMU  KASHMIR,Poonch,Millet  
+234,JAMMU  KASHMIR,Pulwama,Milk  
+235,JAMMU  KASHMIR,Rajouri,Milk  
+236,JAMMU  KASHMIR,Ramban,Honey
+237,JAMMU  KASHMIR,Reasi,
+238,JAMMU  KASHMIR,Samba,Mushroom 
+239,JAMMU  KASHMIR,Shopian,Apple  
+240,JAMMU  KASHMIR,Srinagar,Bakery 
+241,JAMMU  KASHMIR,Udhampur,Pickles
+242,JHARKH,Deoghar,Peda
+243,JHARKH,Dumka,Peda
+244,JHARKH,East Singhbhum,Tomato   
+245,JHARKH,Hazaribagh,Jaggery
+246,JHARKH,Jamtara,Chilly   
+247,JHARKH,Khunti, Tamarind
+248,JHARKH,Koderma,Lime   
+249,JHARKH,Latehar, Mahua
+250,JHARKH,Lohardaga,Honey
+251,JHARKH,Pakur,Mango   
+252,JHARKH,Ranchi,Guava   
+253,JHARKH,Sahebganj,Mango   
+254,JHARKH,SaraiKelaKharsawan, Chironjee
+255,JHARKH,West Singhbhum,Custard Apple   
+256,JHARKH,Bokaro,Jackfruit   
+257,JHARKH,Chatra,Tomato   
+258,JHARKH,Dhanbad,Potato   
+259,JHARKH,Garhwa,Potato   
+260,JHARKH,Giridih,Tomato   
+261,JHARKH,Godda,Mango  
+262,JHARKH,Gumla,Green Chilly
+263,JHARKH,Palamu,Tomato   
+264,JHARKH,Ramgarh,Papaya  
+265,JHARKH,Simdega,Mango  
+266,KARNATAKA,Bagalkote,Jaggery
+267,KARNATAKA,Belagavi,Jaggery
+268,KARNATAKA,Bellary,Fig  
+269,KARNATAKA,Bengaluru Rural,Poultry 
+270,KARNATAKA,Bengaluru Urban,Bakery 
+271,KARNATAKA,Bidar,Ginger  
+272,KARNATAKA,Chamarajanagar,Turmeric
+273,KARNATAKA,Chikkaballapura,Tomato  
+274,KARNATAKA,Chikkamagalur,
+275,KARNATAKA,Chitradurga,Groundnut 
+276,KARNATAKA,Dakshina Kannada,Marine 
+277,KARNATAKA,Davanagere,Millets
+278,KARNATAKA,Dharwad,Mango  
+279,KARNATAKA,Gadag,Byadagi Chillies
+280,KARNATAKA,Hassan,Coconut 
+281,KARNATAKA,Haveri,Mango  
+282,KARNATAKA,Kalaburgi,Red Gram  
+283,KARNATAKA,Kodagu,Coffee
+284,KARNATAKA,Kolar,Tomato  
+285,KARNATAKA,Koppal,Guava  
+286,KARNATAKA,Mya,Jaggery
+287,KARNATAKA,Mysore,Banana  
+288,KARNATAKA,Raichur,Chillies  
+289,KARNATAKA,Ramanagara,Coconut 
+290,KARNATAKA,Shivamogga,Pineapple  
+291,KARNATAKA,Tumakuru,Coconut 
+292,KARNATAKA,Udupi,Marine 
+293,KARNATAKA,Uttara Kannada,
+294,KARNATAKA,Vijayapura,Lime Lemon  
+295,KARNATAKA,Yadagiri,Groundnut 
+296, KERALA,Alappuzha,Rice 
+297, KERALA,Ernakulam,Pineapple  
+298, KERALA,Idukki,
+299, KERALA,Kannur,Coconut  
+300, KERALA,Kasargod,Jackfruit  
+301, KERALA,Kollam,Tapioca  Tuber crop  
+302, KERALA,Kottayam,Coconut  
+303, KERALA,Kozhikode,Coconut  
+304, KERALA,Malappuram,Coconut  
+305, KERALA,Palakkad,Banana  
+306, KERALA,Pathanamthitta,Jackfruit  
+307, KERALA,Thiruvananthapuram,Tapioca  
+308, KERALA,Thrissur,Rice  
+309, KERALA,Wayanad,Milk  
+310,LADAKH,Leh,Sea    Buckthorn     
+311,LADAKH,Kargil,Apricot  
+312,LAKSHADWEEP,Lakshadweep,Coconut  
+313,MADHYA PRADESH,Agar Malwa,Orange  Citrus  
+314,MADHYA PRADESH,Alirajpur,Custard Apple  
+315,MADHYA PRADESH,Anuppur,Tomato  
+316,MADHYA PRADESH,Ashoknagar,Tomato  
+317,MADHYA PRADESH,Balaghat,KodoKutki
+318,MADHYA PRADESH,Barwani,Ginger  
+319,MADHYA PRADESH,Betul,Mango  
+320,MADHYA PRADESH,Bhind,Bajra  
+321,MADHYA PRADESH,Bhopal,Guava  
+322,MADHYA PRADESH,Burhanpur,Banana  
+323,MADHYA PRADESH,Chhatarpur,Betel vine  
+324,MADHYA PRADESH,Chhindwara,Potato  
+325,MADHYA PRADESH,Damoh,Tomato  
+326,MADHYA PRADESH,Datia,Tomato  
+327,MADHYA PRADESH,Dewas,Potato  
+328,MADHYA PRADESH,Dhar,Custard Apple  
+329,MADHYA PRADESH,Dindori,KodoKutki
+330,MADHYA PRADESH,Guna,Corier  
+331,MADHYA PRADESH,Gwalior,Potato  
+332,MADHYA PRADESH,Harda,Onion  
+333,MADHYA PRADESH,Hoshangabad,Guava  
+334,MADHYA PRADESH,Indore,Potato  
+335,MADHYA PRADESH,Jabalpur,Green Pea  
+336,MADHYA PRADESH,Jhabua,Tomato  
+337,MADHYA PRADESH,Katni,Tomato  
+338,MADHYA PRADESH,Khwa,Onion  
+339,MADHYA PRADESH,Khargone,Chilli  
+340,MADHYA PRADESH,Mla,KodoKutki
+341,MADHYA PRADESH,Msaur,Garlic  
+342,MADHYA PRADESH,Morena,Mustard 
+343,MADHYA PRADESH,Narsinghpur,Sugarcane 
+344,MADHYA PRADESH,Neemuch,Corier  
+345,MADHYA PRADESH,Niwari,Ginger  
+346,MADHYA PRADESH,Panna,Aonla  
+347,MADHYA PRADESH,Raisen,Tomato  
+348,MADHYA PRADESH,Rajgarh,Orange Citrus  
+349,MADHYA PRADESH,Ratlam,Garlic  
+350,MADHYA PRADESH,Rewa,Turmeric
+351,MADHYA PRADESH,Sagar,Tomato  
+352,MADHYA PRADESH,Satna,Tomato  
+353,MADHYA PRADESH,Sehore,Guava  
+354,MADHYA PRADESH,Seoni,Custard Apple  
+355,MADHYA PRADESH,Shahdol,Turmeric
+356,MADHYA PRADESH,Shajapur,Onion  
+357,MADHYA PRADESH,Sheopur,Guava  
+358,MADHYA PRADESH,Shivpuri,Tomato  
+359,MADHYA PRADESH,Sidhi,Mango  
+360,MADHYA PRADESH,Singrauli,Tomato  
+361,MADHYA PRADESH,Tikamgarh,Ginger  
+362,MADHYA PRADESH,Ujjain,Onion  
+363,MADHYA PRADESH,Umaria,Mango  
+364,MADHYA PRADESH,Vidisha,Onion  
+365,MAHARASHTRA,Amravati,Marin Orange  
+366,MAHARASHTRA,Aurangabad,Maize  
+367,MAHARASHTRA,Beed,Custard Apple  
+368,MAHARASHTRA,Bhara,Rice  
+369,MAHARASHTRA,Buldhana,Guava  
+370,MAHARASHTRA,Chrapur,Rice  
+371,MAHARASHTRA,Dhule,Banana  
+372,MAHARASHTRA,Gadchiroli, Mahua Honey Hirda Behda 
+373,MAHARASHTRA,Gondia,Rice    Poha Murmura  
+374,MAHARASHTRA,Hingoli,Spice   Turmeric 
+375,MAHARASHTRA,Jalgaon,Banana  
+376,MAHARASHTRA,Jalna,Sweet Orange  
+377,MAHARASHTRA,Kolhapur,Sugarcane   Jaggery 
+378,MAHARASHTRA,Latur,Tomato  
+379,MAHARASHTRA,Mumbai,Marine 
+380,MAHARASHTRA,Mumbai Suburban,Marine 
+381,MAHARASHTRA,Nagpur,Marin Orange  
+382,MAHARASHTRA,Ned,Spice   Turmeric Chilly
+383,MAHARASHTRA,Nurbar,Millet   Hill Millet Finger Millet 
+384,MAHARASHTRA,Nashik,Onion  
+385,MAHARASHTRA,Osmanabad,Pulse   Gram Moong Tur Dal Flour 
+386,MAHARASHTRA,Palghar,Sapota  
+387,MAHARASHTRA,Parbhani,Sugarcane   Jaggery
+388,MAHARASHTRA,Pune,Tomato  
+389,MAHARASHTRA,Raigad,Marine  Fish Shrimp 
+390,MAHARASHTRA,Ratnagiri,Mango  
+391,MAHARASHTRA,Sangli,Grapes  
+392,MAHARASHTRA,Satara,Sugarcane   Jaggery 
+393,MAHARASHTRA,Sindhudurg,Mango  
+394,MAHARASHTRA,Solapur,Millet   Jowar Wheat
+395,MAHARASHTRA,Thane,Millet   Hill Millet ragi 
+396,MAHARASHTRA,Wardha, Turmeric 
+397,MAHARASHTRA,Washim,Oilseed   Soyabean Flax Seed Sesamum 
+398,MAHARASHTRA,Yavatmal, Turmeric 
+399,MANIPUR,Chel,Ginger  
+400,MANIPUR,Churachpur,Pineapple  
+401,MANIPUR,Imphal East,Pineapple  
+402,MANIPUR,Imphal West,Fish 
+403,MANIPUR,Kakching,Black Rice  
+404,MANIPUR,Bishnupur,Fish 
+405,MANIPUR,Pherzawl,Ginger  
+406,MANIPUR,Noney,Banana  
+407,MANIPUR,Senapati,Kiwi  
+408,MANIPUR,Tamenglong,Orange  
+409,MANIPUR,Tengnoupal,Bamboo       Shoot        
+410,MANIPUR,Thoubal,Pineapple  
+411,MANIPUR,Kangpokpi,Turmeric
+412,MANIPUR,Ukhrul,Kachai Lemon
+413,MANIPUR,Kamjong,King Chilli
+414,MANIPUR,Jiribam,Coconut  
+415,MEGHALAYA,East Khasi Hills,Sohiong  
+416,MEGHALAYA,South West Khasi Hills,Honey
+417,MEGHALAYA,RiBhoi,Pineapple  
+418,MEGHALAYA,East Jantia Hills,Turmeric
+419,MEGHALAYA,West Jantia Hills,Turmeric
+420,MEGHALAYA,North Garo Hills,Banana  
+421,MEGHALAYA,East Garo Hills,Pineapple  
+422,MEGHALAYA,South Garo Hills,Jackfruit  
+423,MEGHALAYA,Southwest Garo Hills,Pineapple  
+424,MEGHALAYA,West Khasi Hills,Ginger  
+425,MEGHALAYA,West Garo Hills,Cashewnut  
+426,MIZORAM,Aizawl,Mizo Chilli
+427,MIZORAM,Champhai,Passion Fruit  
+428,MIZORAM,Hnahthial,Turmeric
+429,MIZORAM,Khawzawl,Pineapple  
+430,MIZORAM,Kolasib,Turmeric
+431,MIZORAM,Lawngtlai,Mango  
+432,MIZORAM,Lunglei,Turmeric
+433,MIZORAM,Mamit,Turmeric
+434,MIZORAM,Saiha,Turmeric
+435,MIZORAM,Saitual,Ginger  
+436,MIZORAM,Serchhip,Pineapple  
+437, NAGAL,Dimapur,Pineapple 
+438, NAGAL,Kiphire,Kholar Rajma 
+439, NAGAL,Kohima,Pickle 
+440, NAGAL,Longleng,Ginger 
+441, NAGAL,Mokokchung,Coffee 
+442, NAGAL,Mon,Large cardamom 
+443, NAGAL,Peren,Naga King chilly 
+444, NAGAL,Phek,Kiwi 
+445, NAGAL,Tuensang,Kholar Rajma 
+446, NAGAL,Wokha,Fish 
+447, NAGAL,Zunheboto,Soya bean 
+448,ODISHA,Angul,Mango  
+449,ODISHA,Balasore,Fish  
+450,ODISHA,Bargarh,Oil seed   Groundnut
+451,ODISHA,Bhadrak,Fish  
+452,ODISHA,Bolangir,Milk  
+453,ODISHA,Boudh,Dal  
+454,ODISHA,Cuttack,Milk  
+455,ODISHA,Deogarh,Tamarind  
+456,ODISHA,Dhenkanal,Milk  
+457,ODISHA,Gajapati,Pineapple  
+458,ODISHA,Ganjam,Fish  
+459,ODISHA,Jagatsinghapur,Milk  
+460,ODISHA,Jajpur,Oil seed   Groundnut
+461,ODISHA,Jharsuguda,   Chilli
+462,ODISHA,Kalahi,Fish  
+463,ODISHA,Khamal,   Turmeric
+464,ODISHA,Kendrapara,Milk  
+465,ODISHA,Keonjhar,Urad  
+466,ODISHA,Khordha,Fish  
+467,ODISHA,Koraput,   Ginger
+468,ODISHA,Malkangiri,Millet  
+469,ODISHA,Mayurbhanj,Honey  
+470,ODISHA,Nabarangapur,Maize  
+471,ODISHA,Nayagarh,Sugarcane  
+472,ODISHA,Nuapada,Millet  
+473,ODISHA,Puri,Milk  
+474,ODISHA,Rayagada,Tamarind  
+475,ODISHA,Sambalpur,   Chilli
+476,ODISHA,Subarnapur,Mango  
+477,ODISHA,Sundargarh,Mushroom  
+478,PUDUCHERRY,Karaikal,Fish 
+479,PUDUCHERRY,Puducherry,Milk  
+480,PUNJAB,Amritsar,Pickle  Murabba
+481,PUNJAB,Barnala,Meat Chicken Poultry 
+482,PUNJAB,Bathinda,Honey
+483,PUNJAB,Fatehgarh Sahib,Jaggery
+484,PUNJAB,Fazilka,Kinnow  
+485,PUNJAB,Faridkot,Milk  
+486,PUNJAB,Ferozpur,Chillies  
+487,PUNJAB,Gurdaspur,Sugarcane  
+488,PUNJAB,Hoshiarpur,Jaggery  
+489,PUNJAB,Jalhar,Potato  
+490,PUNJAB,Kapurthala,Tomato  
+491,PUNJAB,Ludhiana,Bakery 
+492,PUNJAB,Malerkotla,Animal Feed
+493,PUNJAB,Mansa,Milk  
+494,PUNJAB,Moga,Potato  
+495,PUNJAB,Pathankot,Litchi  
+496,PUNJAB,Patiala,Guava  
+497,PUNJAB,Roopnagar,Mango  
+498,PUNJAB,Sangrur,Mushroom
+499,PUNJAB,SAS Nagar,Sugarcane  
+500,PUNJAB,SBS Nagar,Peas  
+501,PUNJAB,Sri Mukatsar Sahib,Milk  
+502,PUNJAB,Tarntaran,Pear  
+503,RAJASTHAN,Alwar,Onion  
+504,RAJASTHAN,Ajmer,Rose  
+505,RAJASTHAN,Banswara,Mango  
+506,RAJASTHAN,Baran,Garlic  
+507,RAJASTHAN,Bharatpur,Mustard  
+508,RAJASTHAN,Barmer,Pomegranate  
+509,RAJASTHAN,Bhilwara,Maize  
+510,RAJASTHAN,Bikaner,Moth Bhujia namkeen papad snacks
+511,RAJASTHAN,Bundi,Rice  
+512,RAJASTHAN,Chittor,Jaggery
+513,RAJASTHAN,Churu,Groundnut 
+514,RAJASTHAN,Dausa,Wheat  
+515,RAJASTHAN,Dholpur,Potato  
+516,RAJASTHAN,Dungarpur,Mango  
+517,RAJASTHAN,Ganganagar,Kinnow  
+518,RAJASTHAN,Hanumangarh,Wheat  
+519,RAJASTHAN,Jalore,Isabgol
+520,RAJASTHAN,Jaipur,Tomato  
+521,RAJASTHAN,Jaisalmer,Nutritive Xerophytic fruits Kair Sangari
+522,RAJASTHAN,Jhalawar,Orange  
+523,RAJASTHAN,Jhunjhunu,Fruit   lemon
+524,RAJASTHAN,Jodhpur,Cumin  
+525,RAJASTHAN,Karauli,Sesamum  
+526,RAJASTHAN,Kota,Corier  
+527,RAJASTHAN,Nagaur,Fenugreek  
+528,RAJASTHAN,Pali,Milk  
+529,RAJASTHAN,Pratapgarh,Garlic  
+530,RAJASTHAN,Rajsam, Amla. Jamun Custard Apple 
+531,RAJASTHAN,Sawai Madhopur,Guava  
+532,RAJASTHAN,Sikar,Onion  
+533,RAJASTHAN,Sirohi,Fennel  
+534,RAJASTHAN,Tonk,Mustard  
+535,RAJASTHAN,Udaipur, Amla. Jamun Custard Apple 
+536,SIKKIM,North District,Large Cardamom
+537,SIKKIM,South District,Ginger  
+538,SIKKIM,West District,Vegetables
+539,SIKKIM,East District,Redcherry Pepper Dalley Khorsani
+540,SIKKIM,Pakyong,Bakery Snacks Confectionary 
+541,SIKKIM,Soreng,Meat  
+542,TAMIL NADU,Ariyalur,Cashew  
+543,TAMIL NADU,Chengalpattu,Fishery 
+544,TAMIL NADU,Chennai,Bakery 
+545,TAMIL NADU,Coimbatore,Coconut 
+546,TAMIL NADU,Cuddalore,Cashew  
+547,TAMIL NADU,Dharmapuri,Millet 
+548,TAMIL NADU,Dindigul,Animal feed
+549,TAMIL NADU,Erode,Turmeric  
+550,TAMIL NADU,Kallakurichi,Edible Oils Groundnut  
+551,TAMIL NADU,Kancheepuram,Edible Oils Groundnut  
+552,TAMIL NADU,Kanyakumari,Fishery 
+553,TAMIL NADU,Karur,Moringa 
+554,TAMIL NADU,Krishnagiri,Mango 
+555,TAMIL NADU,Madurai,Dhal 
+556,TAMIL NADU,Nagappattinam,Fishery 
+557,TAMIL NADU,Namakkal,Poultry Feeds 
+558,TAMIL NADU,Perambalur,Animal Feed
+559,TAMIL NADU,Pudukkottai,Groundnut  
+560,TAMIL NADU,Ramanathapuram,Fishery 
+561,TAMIL NADU,Ranipet,Edible Oils Groundnut
+562,TAMIL NADU,Salem,Tapioca 
+563,TAMIL NADU,Sivagangai,Coconut 
+564,TAMIL NADU,Tenkasi,Lemon  
+565,TAMIL NADU,Thanjavur,Coconut 
+566,TAMIL NADU,The Nilgiris,Vegetable  
+567,TAMIL NADU,Theni,Banana  
+568,TAMIL NADU,Thiruvallur,Dhal 
+569,TAMIL NADU,Thoothukudi,Palm 
+570,TAMIL NADU,Tirunelveli,Banana  
+571,TAMIL NADU,Tiruppathur,Groundnut  
+572,TAMIL NADU,Tiruppur,Poultry Feed 
+573,TAMIL NADU,Tiruvannamalai,Groundnut  
+574,TAMIL NADU,Tiruvarur,Dhal 
+575,TAMIL NADU,Trichy,Banana  
+576,TAMIL NADU,Vellore,Milk  
+577,TAMIL NADU,Villupuram,Edible Oils Groundnut  
+578,TAMIL NADU,Virudhunagar,Millet 
+579,TELANGANA,Adilabad,Soybean  
+580,TELANGANA,Bhadadri Kothagudem,Chillies  
+581,TELANGANA,Hyderabad,Ready to eat Snacks  Savouries
+582,TELANGANA,Jagitial,Mango  
+583,TELANGANA,Jangaon,Rice   Scented Rice Chittimuthyalu
+584,TELANGANA,Jayashankar Bhupalpally,Chillies  
+585,TELANGANA,Jogulamba Gadwal,Groundnut  
+586,TELANGANA,Kamareddy,Soybean  
+587,TELANGANA,Karimnagar,Rice  
+588,TELANGANA,Khammam,Chillies  
+589,TELANGANA,Komaram Bheem,Millet  
+590,TELANGANA,Mahabubabad,Chillies  
+591,TELANGANA,Mahabubnagar,Millet  
+592,TELANGANA,Mancherial,Mango  
+593,TELANGANA,Medak,Ready to eat Snacks  Savouries
+594,TELANGANA,MedchalMalkagiri,Ready to eat Snacks  Savouries
+595,TELANGANA,Mulugu,Chillies  
+596,TELANGANA,Nagarkurnool,Mango  
+597,TELANGANA,Nalgonda,Sweet Orange  
+598,TELANGANA,Narayanpet,Groundnut  
+599,TELANGANA,Nirmal,Soyabean  
+600,TELANGANA,Nizamabad,Turmeric
+601,TELANGANA,Peddapalli,Rice  
+602,TELANGANA,Rajanna Sircilla,Fish  
+603,TELANGANA,Ranga Reddy,Vegetable processing
+604,TELANGANA,Sangareddy,Milk  
+605,TELANGANA,Siddipet,Vegetable processing
+606,TELANGANA,Suryapet,Milk  
+607,TELANGANA,Vikarabad,Vegetable processing
+608,TELANGANA,Wanaparthy,Groundnut 
+609,TELANGANA,Warangal Rural,Chillies Bamboo Chilli  
+610,TELANGANA,Warangal Urban,Ready to eat Snacks  Savouries
+611,TELANGANA,Yadadri Bhuvanagiri,Milk  
+612,TRIPURA,Dhalai,Multiple Fruit Processing
+613,TRIPURA,Gomti,Multiple Fruit Processing
+614,TRIPURA,Khowai,Rice  
+615,TRIPURA,North Tripura,Tea 
+616,TRIPURA,Sipahijala,Milk  
+617,TRIPURA,South Tripura,Bakery 
+618,TRIPURA,Unnakoti,Multiple Fruit Processing
+619,TRIPURA,West Tripura,Bakery 
+620, UTTAR PRADESH,Agra,Petha
+621, UTTAR PRADESH,Aligarh,Milk  
+622, UTTAR PRADESH,Ambedkar Nagar,Chilli  
+623, UTTAR PRADESH,Amethi,Aonla  
+624, UTTAR PRADESH,Amroha,Mango  
+625, UTTAR PRADESH,Auraiya,Milk   Ghee
+626, UTTAR PRADESH,Ayodhya,Jaggery
+627, UTTAR PRADESH,Azamgarh,Basil  
+628, UTTAR PRADESH,Baghpat,Jaggery
+629, UTTAR PRADESH,Bahraich,Banana  
+630, UTTAR PRADESH,Ballia,Lentil  
+631, UTTAR PRADESH,Ba,Oil seed 
+632, UTTAR PRADESH,Balrampur,Corn 
+633, UTTAR PRADESH,Barabanki,Mint  
+634, UTTAR PRADESH,Bareilly,Milk  
+635, UTTAR PRADESH,Basti,Kala Namak Rice
+636, UTTAR PRADESH,Bhadohi,Onion  
+637, UTTAR PRADESH,Bijnor,Jaggery
+638, UTTAR PRADESH,Budaun,Guava  
+639, UTTAR PRADESH,Bulshahar,Milk  
+640, UTTAR PRADESH,Chauli,Tomato  
+641, UTTAR PRADESH,ChitraKoot,Oil seed 
+642, UTTAR PRADESH,Deoria,Chilli  
+643, UTTAR PRADESH,Etah,Chicory
+644, UTTAR PRADESH,Etawah,Mustard  
+645, UTTAR PRADESH,Farrukhabad,Potato  
+646, UTTAR PRADESH,Fatehpur,Aonla  
+647, UTTAR PRADESH,Firozabad,Potato  
+648, UTTAR PRADESH,Gorakhpur,Kala Namak Rice
+649, UTTAR PRADESH,G. B. Nagar,Bakery 
+650, UTTAR PRADESH,Ghaziabad,Bakery 
+651, UTTAR PRADESH,Ghazipur,Onion  
+652, UTTAR PRADESH,Gonda,Banana  
+653, UTTAR PRADESH,Hamirpur,Fish  
+654, UTTAR PRADESH,Hapur,Petha
+655, UTTAR PRADESH,Hardoi,Groundnut 
+656, UTTAR PRADESH,Hathras,Asafoetida
+657, UTTAR PRADESH,Jalaun,Pea  
+658, UTTAR PRADESH,Jaunpur,Milk  
+659, UTTAR PRADESH,Jhansi,Basil  
+660, UTTAR PRADESH,Kannauj,Potato  
+661, UTTAR PRADESH,Kanpur Dehat,Milk 
+662, UTTAR PRADESH,Kanpur Nagar,Bakery 
+663, UTTAR PRADESH,Kasganj,Ghee
+664, UTTAR PRADESH,Kaushambi,Guava  
+665, UTTAR PRADESH,Kushinagar,Banana  
+666, UTTAR PRADESH,Lakhimpur Khiri,Banana  
+667, UTTAR PRADESH,Lalitpur,Turmeric
+668, UTTAR PRADESH,Lucknow,Mango  
+669, UTTAR PRADESH,Maharajganj,Kala Namak Rice
+670, UTTAR PRADESH,Mahoba,Oil seed 
+671, UTTAR PRADESH,Mainpuri,Garlic  
+672, UTTAR PRADESH,Mathura,Milk  Peda
+673, UTTAR PRADESH,Mau,Mango  
+674, UTTAR PRADESH,Meerut,Jaggery
+675, UTTAR PRADESH,Mirzapur,Tomato  
+676, UTTAR PRADESH,Moradabad,Honey
+677, UTTAR PRADESH,Muzaffarnagar,Jaggery
+678, UTTAR PRADESH,Pilibhit,Jaggery
+679, UTTAR PRADESH,Pratapgarh,Aonla  
+680, UTTAR PRADESH,Prayagraj,Guava  
+681, UTTAR PRADESH,Rae Bareli,Aonla  
+682, UTTAR PRADESH,Rampur,Mint  
+683, UTTAR PRADESH,Saharanpur,Honey
+684, UTTAR PRADESH,Sambhal,Mint  
+685, UTTAR PRADESH,Sant Kabir Nagar,Kala Namak Rice
+686, UTTAR PRADESH,Shahjahanpur,Jaggery
+687, UTTAR PRADESH,Shamali,Jaggery
+688, UTTAR PRADESH,Shrawasti,Banana  
+689, UTTAR PRADESH,Siddharth nagar,Kala Namak Rice
+690, UTTAR PRADESH,Sitapur,Mango  
+691, UTTAR PRADESH,Sonbhadra,Tomato  
+692, UTTAR PRADESH,Sultanpur,Mint  
+693, UTTAR PRADESH,Unnao,Mango  
+694, UTTAR PRADESH,Varanasi,Chilli  
+695,UTTARAKHAND,Almora,Apricot  
+696,UTTARAKHAND,Bageshwar,Kiwi  
+697,UTTARAKHAND,Chamoli,Fish  
+698,UTTARAKHAND,Champawat,Tejpata  
+699,UTTARAKHAND,Dehradun,Bakery 
+700,UTTARAKHAND,Haridwar,Mushroom
+701,UTTARAKHAND,Nainital,Fruit Juice  Squash Peach 
+702,UTTARAKHAND,Pauri,Citrus   Malta
+703,UTTARAKHAND,Pithoragarh,Turmeric  
+704,UTTARAKHAND,Rudraprayag,Amaranthas  
+705,UTTARAKHAND,Tehri,Ginger  
+706,UTTARAKHAND,Udham Singh Nagar,Mango  
+707,UTTARAKHAND,Uttarkashi,Apple  
